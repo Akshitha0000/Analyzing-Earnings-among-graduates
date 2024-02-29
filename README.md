@@ -5,10 +5,10 @@ This project explores the relationship between earnings, gender distribution, an
 Analysis
 The analysis in this project aims to uncover insights into the relationship between recent graduates' earnings, gender distribution, and various factors related to their majors. It proceeds through the following steps:
 
-1. Data Cleaning:
+Data Cleaning:
 The dataset is loaded, and any rows containing null values are removed to ensure the integrity of the data.
 
-2. Data Visualization:
+Data Visualization:
 Unemployment Rate Visualization: Bar plots are utilized to visually represent unemployment rates for majors with both the highest and lowest median salaries. This helps in understanding the employment landscape across different fields of study.
 
 Variation Visualization: Box plots are employed to illustrate the variation in unemployment rates and median earnings. This visualization aids in identifying any outliers or significant differences in these metrics.
@@ -17,10 +17,13 @@ Correlation Exploration: Scatterplots and hexagonal bin plots are utilized to ex
 
 Histograms provide insights into the distribution of median earnings, number of employed graduates, share of women, and unemployment rates. Scatter matrices visualize potential relationships between sample size, median earnings, and unemployment rates.
 
-3. Conclusions:
+Conclusions:
 Key findings and insights drawn from the analysis are summarized, including:
 
 Lack of correlation between total graduates and median salary.
+
 Small negative correlation between the share of women and median salary.
+
 No significant link between full-time employment and median salary.
+
 Analysis of gender distribution across major categories.
